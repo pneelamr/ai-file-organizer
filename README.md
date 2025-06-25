@@ -1,4 +1,4 @@
-#Local AI File Organizer for macOS
+# Local AI File Organizer for macOS
 
 An autonomous AI agent that automatically organizes your Mac's files using a local Large Language Model (LLM). This privacy-first tool watches a folder (like your Downloads) and intelligently sorts new files into categories you define.
 
