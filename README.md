@@ -40,8 +40,8 @@ Follow these steps to get your AI agent up and running.
 
 **1. Clone the Repository**
 ```bash
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-cd your-repo-name
+git clone [https://github.com/pneelamr/ai-file-organizer.git](https://github.com/pneelamr/ai-file-organizer.git)
+cd ai-file-organizer
 ````
 
 2. Set Up the Python Environment
