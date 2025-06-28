@@ -40,7 +40,7 @@ Follow these steps to get your AI agent up and running.
 
 **1. Clone the Repository**
 ```bash
-git clone [https://github.com/pneelamr/ai-file-organizer.git](https://github.com/pneelamr/ai-file-organizer.git)
+git clone https://github.com/pneelamr/ai-file-organizer.git
 cd ai-file-organizer
 ````
 
